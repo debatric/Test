@@ -1,9 +1,3 @@
-
-
-
-
-
-
       END FUNCTION func
 
       SUBROUTINE trapzd(func,a,b,s,n)
