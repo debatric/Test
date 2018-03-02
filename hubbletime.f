@@ -54,7 +54,7 @@
       call trapzd(func,a,b,s,n)
       write(*,*) "trapezoidal : " , s
       sf=(12./19.)*(c0**4./l1)*s*l3
-      write(*,*) "The time is =", sf/3.16e+13
+      write(*,*) "The time is(inMyrs) =", sf/3.16e+13
       stop
       end
 
